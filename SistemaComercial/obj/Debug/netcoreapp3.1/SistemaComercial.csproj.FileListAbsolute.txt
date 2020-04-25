@@ -1,0 +1,9 @@
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\bin\Debug\netcoreapp3.1\SistemaComercial.deps.json
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\bin\Debug\netcoreapp3.1\SistemaComercial.dll
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\bin\Debug\netcoreapp3.1\SistemaComercial.pdb
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\obj\Debug\netcoreapp3.1\SistemaComercial.csprojAssemblyReference.cache
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\obj\Debug\netcoreapp3.1\SistemaComercial.csproj.CoreCompileInputs.cache
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\obj\Debug\netcoreapp3.1\SistemaComercial.AssemblyInfoInputs.cache
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\obj\Debug\netcoreapp3.1\SistemaComercial.AssemblyInfo.cs
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\obj\Debug\netcoreapp3.1\SistemaComercial.dll
+C:\Users\vinip\source\repos\SistemaComercial\SistemaComercial\obj\Debug\netcoreapp3.1\SistemaComercial.pdb
